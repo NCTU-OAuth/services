@@ -10,6 +10,12 @@
 
  - [交大新生找小豬系統](https://stunion.nctu.edu.tw/roommate) - 讓新生更方便找到室友的佛心網站
 
+## 第三方套件
+
+### Python
+
+- [NCTU-OAuth Support for Flask](https://pypi.python.org/pypi/NCTU-Oauth) - 針對 Python Flask 進行開發的套件，讓開發者用 Flask 時可以輕鬆的套用 NCTU-OAuth
+
 ## 投稿
 
 請直接開 Issue 標明網站名稱、網址和簡介
