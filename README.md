@@ -19,8 +19,10 @@
 
 ### Ruby
 
-- [omniauth-nctu](https://rubygems.org/gems/omniauth-nctu) - 
+- omniauth-nctu - 
   使用 OmniAuth 實 作NCTU-Oauth 登入認證的 Ruby 套件。
+  - [Github Repo](https://github.com/deror1869107/omniauth-nctu)
+  - [RubyGems](https://rubygems.org/gems/omniauth-nctu)
 
 ## 投稿
 
