@@ -14,7 +14,13 @@
 
 ### Python
 
-- [NCTU-OAuth Support for Flask](https://pypi.python.org/pypi/NCTU-Oauth) - 針對 Python Flask 進行開發的套件，讓開發者用 Flask 時可以輕鬆的套用 NCTU-OAuth
+- [NCTU-OAuth Support for Flask](https://pypi.python.org/pypi/NCTU-Oauth) - 
+  針對 Python Flask 進行開發的套件，讓開發者用 Flask 時可以輕鬆的套用 NCTU-OAuth
+
+### Ruby
+
+- [omniauth-nctu](https://rubygems.org/gems/omniauth-nctu) - 
+  使用 OmniAuth 實 作NCTU-Oauth 登入認證的 Ruby 套件。
 
 ## 投稿
 
