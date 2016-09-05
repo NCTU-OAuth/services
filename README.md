@@ -15,7 +15,11 @@
 ### Python
 
 - [NCTU-OAuth Support for Flask](https://pypi.python.org/pypi/NCTU-Oauth) - 
-  針對 Python Flask 進行開發的套件，讓開發者用 Flask 時可以輕鬆的套用 NCTU-OAuth
+  針對 Python Flask 進行開發的套件，讓開發者用 Flask 時可以輕鬆的套用 NCTU OAuth
+
+- [NCTU-OAuth Support for Tornado](https://github.com/allenwhale/NCTU-OAuth) - 
+  透過本套件在 tornado 開發中使用 NCTU OAuth
+
 
 ### Ruby
 
