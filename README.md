@@ -4,11 +4,12 @@
 
 ## 交通大學官方應用程式
 
-目前暫無
+ - [GPE](http://gpe2.acm-icpc.tw/) - 線上解題系統
 
 ## 第三方開發者
 
  - [交大新生找小豬系統](https://stunion.nctu.edu.tw/roommate) - 讓新生更方便找到室友的佛心網站
+ - [NCTU+](https://plus.nctu.edu.tw/) - 交大智慧校園系統
 
 ## 第三方套件
 
